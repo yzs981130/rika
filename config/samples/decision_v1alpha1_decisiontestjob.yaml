@@ -1,0 +1,7 @@
+apiVersion: decision.yzs.io/v1alpha1
+kind: DecisionTestJob
+metadata:
+  name: decisiontestjob-sample
+spec:
+  # Add fields here
+  foo: bar

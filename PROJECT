@@ -1,0 +1,7 @@
+version: "2"
+domain: yzs.io
+repo: rika
+resources:
+- group: decision
+  version: v1alpha1
+  kind: DecisionTestJob
